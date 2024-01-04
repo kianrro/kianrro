@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b> Keylogger Using Python </b>
-  - [PyLogger](https://github.com/kianrro/kianrro)
+  - [PyLogger](https://github.com/kianrro/PyLogger)
 - <b> Password Strength Checker with Python </b>
   - [PyWord Checker](https://github.com/kianrro/kianrro)
 
