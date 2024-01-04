@@ -9,8 +9,8 @@
 
 <h2>📝 Certifications </h2>
 
-- [[HackTheBox] SOC Level 1 (WIP)](https://github.com/kianrro/kianrro)
-- [[HackTheBox] Cyber Defense (WIP)](https://github.com/kianrro/kianrro)
+- [[HackTheBox] SOC Level 1](https://github.com/kianrro/kianrro)
+- [[HackTheBox] Cyber Defense](https://github.com/kianrro/kianrro)
 - [Google Cybersecurity Certificate (WIP)](https://github.com/kianrro/kianrro)
 
 <h2> 🤳 Connect with me:</h2>
