@@ -20,4 +20,4 @@
 
 
 [indeed]: https://profile.indeed.com/p/carlosn-12cqh9d
-[linkedin]: https://www.linkedin.com/in/carlos-nguy-2372082a8/
+[linkedin]: www.linkedin.com/in/carlos-nguy-2372082a8
