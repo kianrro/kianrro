@@ -19,5 +19,5 @@
 [<img align="left" alt="kianrro | Indeed" width="15px" src="https://static-00.iconduck.com/assets.00/indeed-icon-1376x2048-vteecb57.png" />][indeed]
 
 
-[indeed]: https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-jobseeker-profile--profile-one-frontend
+[indeed]: https://profile.indeed.com/p/carlosn-12cqh9d
 [linkedin]: https://www.linkedin.com/in/carlos-nguy-2372082a8/
