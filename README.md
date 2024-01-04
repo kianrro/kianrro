@@ -1,4 +1,4 @@
-<h1>Hi, I'm kianrro! </h1>
+<h1>Hello, I am kianrro! </h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
