@@ -11,6 +11,7 @@
 
 - [[TryHackMe] SOC Level 1 (WIP)](https://github.com/kianrro/kianrro)
 - [[TryHackMe] Cyber Defense (WIP)](https://github.com/kianrro/kianrro)
+- [[Cybrary] Kali Linux Fundamentals (WIP)](https://github.com/kianrro/kianrro)
 
 <h2> 🤳 Connect with me:</h2>
 
