@@ -16,8 +16,5 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="kianrro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kianrro | Indeed" width="15px" src="https://static-00.iconduck.com/assets.00/indeed-icon-1376x2048-vteecb57.png" />][indeed]
 
-
-[indeed]: https://profile.indeed.com/p/carlosn-12cqh9d
 [linkedin]: www.linkedin.com/in/carlos-nguy-2372082a8
